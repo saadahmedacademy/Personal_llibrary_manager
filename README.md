@@ -27,8 +27,7 @@ A simple and interactive Streamlit app to manage your personal book collection â
 
 ```bash
 # 1. Clone the repository
-[git clone https://github.com/your-username/personal-library-manager.git
-](https://github.com/saadahmedacademy/Personal_llibrary_manager.git)
+git clone https://github.com/your-username/personal-library-manager.git
 cd personal-library-manager
 
 # 2. Install dependencies
