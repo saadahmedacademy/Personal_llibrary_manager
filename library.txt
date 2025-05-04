@@ -1,0 +1,18 @@
+[
+    {
+        "title": "saad life",
+        "author": "Saad",
+        "year": 2000,
+        "genre": "Science",
+        "read": "No",
+        "rating": "3"
+    },
+    {
+        "title": "My love",
+        "author": "Muhammad Numan",
+        "year": 2025,
+        "genre": "Eitement",
+        "read": "Yes",
+        "rating": "1"
+    }
+]
